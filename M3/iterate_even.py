@@ -1,6 +1,4 @@
 """even"""
-X = 2
-while X <= 10:
+for X in range(2, 11, 2):
     print("print", X)
-    X = X+2
-print("print Goodbye!")
+print("Goodbye!")
