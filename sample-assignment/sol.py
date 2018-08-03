@@ -1,5 +1,4 @@
-# Exercise: Assignment-1
-# Write a Python function, factorial(n), that takes in one number and
+"""Write a Python function, factorial(n), that takes in one number and"""
 def main():
     """Hello0000"""
     data = input()
